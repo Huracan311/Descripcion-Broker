@@ -39,4 +39,14 @@ CORBA es más que una especificación multiplataforma, también define servicios
 
 En los siguientes links se dejan dos Ejemplos donde se implementa el patrón de diseño Broker.
 
+https://github.com/Huracan311/Broker
+
+
+**Links Consultados**
+
+https://www.ibm.com/support/knowledgecenter/es/SSMKHH_9.0.0/com.ibm.etools.mft.doc/bc22400_.htm
+https://www.grimm-jaud.de/index.php/private-vortraege/27-broker-pattern
+https://ff.tu-sofia.bg/~bogi/knigi/SE/Wiley%20-%20Pattern-Oriented%20Software%20Architecture%20-%20Volume%201,%20A%20System%20of%20Patterns.pdf
+
+
 
